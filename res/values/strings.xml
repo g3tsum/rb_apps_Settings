@@ -4453,7 +4453,6 @@
 
     <!-- RootBox -->
     <string name="header_category_rootbox">ROOTBOX</string>
-    <string name="update_settings_title">Update Center</string>
     <string name="rootbox_settings_title">RootBox Settings</string>
 
     <!--- Sms security limit -->
