@@ -43,6 +43,10 @@
 		android:key="maintainers"
 		android:title="@string/maintainers_team_title">
 
+                <com.android.settings.widgets.DeveloperPreference
+            android:title="houstonn"
+            rb:nameDev="Houston N. (m7/m7wls/geeb)" />
+
 		<com.android.settings.widgets.DeveloperPreference
             android:title="Myles Nystrom"
             rb:nameDev="Myles N. (Grouper)"
